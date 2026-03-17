@@ -32,7 +32,7 @@ Mes projets reflètent ma double casquette. J'aime particulièrement construire 
 ### 📸 Mon Côté Astrophotographie
 
 La nuit, mon terrain de jeu n'est plus le terminal Linux, mais la voûte céleste. Je capture des nébuleuses, des galaxies et des amas d'étoiles.  
-👉 **Découvre mes clichés sur Instagram :** [@TON_COMPTE_INSTAGRAM](https://instagram.com/TON_COMPTE_INSTAGRAM)
+👉 **Découvre mes clichés sur Instagram :** [@filou_cosmos](https://www.instagram.com/filou_cosmos/)
 
 ### 📫 Gardons le contact !
 
