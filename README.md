@@ -2,7 +2,11 @@
 
 Bienvenue sur mon GitHub ! Je suis un passionné qui navigue au quotidien entre deux univers fascinants : **l'infrastructure IT et la cybersécurité** d'un côté, et **l'astronomie et l'intelligence artificielle** de l'autre. 
 
-Quand je n'ai pas les yeux rivés sur un télescope pour photographier le ciel profond, je suis probablement en train d'automatiser des tâches système en Python ou d'entraîner des réseaux de neurones sur des données stellaires.
+> 🎯 **À la recherche de ma prochaine aventure !**
+> Je suis actuellement ouvert à de nouvelles opportunités :
+> * **Alternance** (Rythme à définir) pour un Master **Ingénieur IA** chez OpenClassrooms.
+> * **Poste fixe (CDI)** en tant qu'**Administrateur Système et Réseau**.
+> *N'hésitez pas à me contacter si mon profil correspond à vos besoins !*
 
 ### 🔭 Ce que tu trouveras ici
 
