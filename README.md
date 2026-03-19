@@ -1,4 +1,4 @@
-# Salut :)
+# Salut, moi c'est FilouCosmos
 
 Bienvenue sur mon GitHub ! Je suis un passionné qui navigue au quotidien entre deux univers fascinants : **l'infrastructure IT et la cybersécurité** d'un côté, et **l'astronomie et l'intelligence artificielle** de l'autre. 
 
