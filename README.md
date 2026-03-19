@@ -34,11 +34,11 @@ Mes projets reflètent ma double casquette. J'aime particulièrement construire 
 
 ### 📸 Mon Côté Astrophotographie
 
-La nuit, mon terrain de jeu n'est plus le terminal Linux, mais la voûte céleste. Je capture des nébuleuses, des galaxies et des amas d'étoiles.  
+La nuit, mon terrain de jeu n'est plus un terminal, mais la voûte céleste. Je capture des nébuleuses, des galaxies et des amas d'étoiles.  
 👉 **Découvre mes clichés sur Instagram :** [@filou_cosmos](https://www.instagram.com/filou_cosmos)
 
 ### 📫 Gardons le contact !
 
-Que tu veuilles échanger sur une configuration **Cisco/NSX**, discuter de l'architecture d'un modèle **PyTorch**, ou simplement comparer nos dernières astrophotographies, n'hésite pas à ouvrir une *Issue* sur l'un de mes dépôts ou à me faire signe.
+Que tu veuilles échanger sur une configuration, discuter de l'architecture d'un modèle, ou simplement comparer nos dernières astrophotographies, n'hésite pas à ouvrir une *Issue* sur l'un de mes dépôts ou à me faire signe.
 
 ---
