@@ -1,4 +1,4 @@
-# Salut, moi c'est FilouCosmos 🌌👋
+# Salut, moi c'est FilouCosmos 
 
 Bienvenue sur mon GitHub ! Je suis un passionné qui navigue au quotidien entre deux univers fascinants : **l'infrastructure IT & la cybersécurité** d'un côté, et **l'astronomie & l'intelligence artificielle** de l'autre. 
 
@@ -8,11 +8,6 @@ Bienvenue sur mon GitHub ! Je suis un passionné qui navigue au quotidien entre 
 Je suis actuellement ouvert à de nouvelles opportunités pour mettre mes compétences au service de projets innovants :
 * **Alternance** (Rythme à définir) pour mon **Master Ingénieur IA** chez OpenClassrooms.
 * **Poste fixe (CDI)** en tant qu'**Administrateur Système et Réseau**.
-
-> [!TIP]
-> **N'hésitez pas à me contacter** si mon profil hybride (Infra + IA) correspond à vos besoins !
-
----
 
 ### 🔭 Ce que tu trouveras ici
 
