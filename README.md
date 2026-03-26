@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est FilouCosmos !
 
-Bienvenue sur mon profil ! Si je devais résumer mon quotidien, je dirais que j'ai la tête dans les étoiles (littéralement) et les mains dans les serveurs. 
+Bienvenue sur mon profil ! Si je devais résumer mon quotidien, je dirais que j'ai la tête dans les étoiles (littéralement).
 
 Je suis un grand passionné qui jongle entre deux mondes : l'infrastructure IT / Cybersécurité la journée, et l'Intelligence Artificielle appliquée à l'astronomie quand je code pour moi.
 
