@@ -1,44 +1,42 @@
-# Salut, moi c'est FilouCosmos 
+# 👋 Salut, moi c'est FilouCosmos !
 
-Bienvenue sur mon GitHub ! Je suis un passionné qui navigue au quotidien entre deux univers fascinants : **l'infrastructure IT & la cybersécurité** d'un côté, et **l'astronomie & l'intelligence artificielle** de l'autre. 
+Bienvenue sur mon profil ! Si je devais résumer mon quotidien, je dirais que j'ai la tête dans les étoiles (littéralement) et les mains dans les serveurs. 
+
+Je suis un grand passionné qui jongle entre deux mondes : l'infrastructure IT / Cybersécurité la journée, et l'Intelligence Artificielle appliquée à l'astronomie quand je code pour moi.
 
 ---
 
-### 🎯 À la recherche de ma prochaine aventure !
-Je suis actuellement ouvert à de nouvelles opportunités pour mettre mes compétences au service de projets innovants :
-* **Alternance** (Rythme à définir) pour mon **Master Ingénieur IA** chez OpenClassrooms.
-* **Poste fixe (CDI)** en tant qu'**Administrateur Système et Réseau**.
+### 🎯 Statut actuel : Ouvert aux opportunités !
+Je suis activement à la recherche de mon prochain défi technique. Actuellement, je vise :
+* **Une alternance** pour valider mon **Master Ingénieur IA** chez OpenClassrooms (rythme à définir ensemble).
+* Ou un **poste fixe (CDI)** en tant qu'**Administrateur Système et Réseaux**.
 
-### 🔭 Ce que tu trouveras ici
+### 🔭 Sur quoi je bosse ?
 
-Mes projets reflètent ma double casquette. J'aime particulièrement construire des ponts entre l'administration système traditionnelle et les nouvelles capacités de l'IA :
+Ici, tu trouveras un mix de mes deux univers. J'aime particulièrement utiliser l'IA pour résoudre des problématiques d'infrastructure, ou l'inverse :
 
-* **L'exploration spatiale par l'IA :** Je m'amuse avec le Deep Learning (Autoencodeurs Variationnels, Monte Carlo Dropout) pour analyser l'immense catalogue de la mission spatiale **Gaia**. Mon but ? Détecter des anomalies astrophysiques ou prédire des données manquantes.
-* **Infrastructure & AIOps :** Je forge mes propres outils pour sécuriser et monitorer les infrastructures. Ça va de la surveillance de la dérive réseau (**config drift**) à la création d'assistants IA 100% locaux pour l'analyse de logs critiques.
+* **L'exploration spatiale par l'IA :** Je m'amuse avec le Deep Learning (Autoencodeurs Variationnels, Monte Carlo Dropout) pour fouiller dans l'immense catalogue de la mission spatiale **Gaia**. Mon objectif ? Détecter des anomalies astrophysiques ou prédire des données manquantes.
+* **Infra & AIOps :** Je forge mes propres outils pour sécuriser et monitorer les systèmes. Ça va de la surveillance de la dérive réseau (*Configuration Drift*) à la création de petits assistants IA qui tournent 100% en local pour analyser mes logs critiques.
 
-### 🛠️ Ma boîte à outils
+### 🛠️ Ma stack de prédilection
 
 **⚡ Réseaux & Virtualisation**
-* **Cisco :** Configuration et administration (Switching/Routing).
-* **VMware & NSX :** Maîtrise de la virtualisation serveur et du Software-Defined Networking (SDN) pour des réseaux agiles et segmentés.
-* **Réseaux avancés :** Solides connaissances en protocoles de routage, segmentation VLAN et architecture LAN/WAN.
+* **Cisco & Routage :** Configuration, routage, segmentation VLAN et architecture LAN/WAN.
+* **VMware & NSX :** J'aime quand c'est virtualisé, du serveur classique jusqu'au réseau défini par le logiciel (SDN).
 
 **🛡️ Systèmes, AD & Cybersécurité**
-* **Microsoft Active Directory :** Gestion des GPO, des utilisateurs et sécurisation des identités.
-* **Cyber-résilience :** Mise en place de solutions de monitoring SSL, IPS, et durcissement (hardening) système.
-* **Automatisation :** Netmiko pour le réseau, scripts Python pour le SysAdmin.
+* **Microsoft & Linux :** Gestion de domaine Active Directory (GPO, identités) côté Microsoft, et durcissement système (hardening) côté pingouin.
+* **Automatisation & Cyber :** Beaucoup de Python ! J'automatise le réseau avec Netmiko et je code des outils de monitoring sur mesure (SSL, IPS maison).
 
 **🧠 Intelligence Artificielle & Data**
-* **Frameworks :** PyTorch, Scikit-Learn, Pandas.
-* **Spécialités :** LLMs locaux, Autoencodeurs Variationnels (VAE), Monte Carlo Dropout.
+* **Outils :** PyTorch, Scikit-Learn, Pandas.
+* **Mes spécialités :** Les LLMs en local, Autoencodeurs Variationnels (VAE) et Monte Carlo Dropout.
 
-### 📸 Mon Côté Astrophotographie
+### 📸 Côté perso : L'Astrophotographie
 
-La nuit, mon terrain de jeu n'est plus un terminal, mais la voûte céleste. Je capture des nébuleuses, des galaxies et des amas d'étoiles.  
-👉 **Découvre mes clichés sur Instagram :** [@filou_cosmos](https://www.instagram.com/filou_cosmos)
+Quand je lâche mon clavier, c'est généralement pour sortir mon télescope. La nuit, je passe pas mal de temps à capturer des nébuleuses, des galaxies ou des amas d'étoiles.  
+👉 **Si tu aimes l'espace, passe voir mes clichés sur Instagram :** [@filou_cosmos](https://www.instagram.com/filou_cosmos)
 
-### 📫 Gardons le contact !
+### 📫 On discute ?
 
-Que tu veuilles échanger sur une configuration, discuter de l'architecture d'un modèle, ou simplement comparer nos dernières astrophotographies, n'hésite pas à ouvrir une *Issue* sur l'un de mes dépôts ou à me faire signe.
-
----
+Que ce soit pour parler d'une conf réseau, d'une architecture d'IA, ou juste pour comparer nos photos d'Orion... n'hésite pas à m'envoyer un message sur LinkedIn ou à ouvrir une *Issue* sur l'un de mes dépôts !
