@@ -39,4 +39,4 @@ Quand je lâche mon clavier, c'est généralement pour sortir mon télescope. La
 
 ### 📫 On discute ?
 
-Que ce soit pour parler d'une conf réseau, d'une architecture d'IA, ou juste pour comparer nos photos d'Orion... n'hésite pas à m'envoyer un message sur LinkedIn ou à ouvrir une *Issue* sur l'un de mes dépôts !
+Que ce soit pour parler d'une conf réseau, d'une architecture d'IA, ou juste pour comparer nos photos d'Orion... n'hésite pas à m'envoyer un message sur Insta ou à ouvrir une *Issue* sur l'un de mes dépôts !
