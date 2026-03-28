@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est FilouCosmos !
+# 👋 Salut, moi c'est Filou !
 
 Bienvenue sur mon profil ! Si je devais résumer mon quotidien, je dirais que j'ai la tête dans les étoiles (littéralement).
 
